@@ -36,11 +36,17 @@
 </div>
 
 <br/>
-<hr/>
+
+
+  <h2 align="center">🐍 My Contributions 🐍</h2>
+
+  
+![snake gif](https://github.com/sofia11244/sofia11244/blob/output/github-snake-dark.svg)
+  
+ 
 
 
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
