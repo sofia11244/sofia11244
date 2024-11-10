@@ -13,7 +13,7 @@
     <br><br>
     🌱 I’m currently learning **JavaScript, SQL, React**
     <br><br>
-    💬 I'm a junior developer, so I'll be asking you about **Node.js, React, Firebase... or basically everything!**
+    💬 I'm a junior developer, so I'll be asking you about **Node.js, React... or basically everything!**
 </div>
 
 <br>
