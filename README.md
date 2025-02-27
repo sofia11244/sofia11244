@@ -1,8 +1,5 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sofia11244.sofia11244-badge&left_color=lightgrey&right_color=gray&left_text=Hi%20Visitors" align="right" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hiii+👋;+It's+Deniz+Sofia!;" />
-</h1>
 
 <h3 align="center">An ambitious software developer from Turkey!</h3>
 
