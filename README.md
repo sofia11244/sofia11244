@@ -52,7 +52,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofia11244&theme=dracula)](https://github.com/anuraghazra/github-readme-stats )
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofia11244&theme=dracula)](https://git.io/streak-stats)
 
   <br/>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofia11244&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
