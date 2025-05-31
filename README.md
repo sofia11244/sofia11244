@@ -1,7 +1,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sofia11244.sofia11244-badge&left_color=lightgrey&right_color=gray&left_text=Hi%20Visitors" align="right" />
 
 
-<h3 align="center">An ambitious software developer from Turkey!</h3>
+<h3 align="center">An ambitious software developer</h3>
 
 <br/>
 
